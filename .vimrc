@@ -1,4 +1,4 @@
-set guifont=courier\ new\ 16
+set guifont=courier_new:h18
 set cursorline cul
 colorscheme darkblue
 nmap gO O<ESC>j
